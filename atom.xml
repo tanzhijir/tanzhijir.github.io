@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tanzhijir.github.io</id>
+    <title>檀纸姬的博客</title>
+    <updated>2021-02-09T14:46:07.704Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tanzhijir.github.io"/>
+    <link rel="self" href="https://tanzhijir.github.io/atom.xml"/>
+    <subtitle>Septillion of ideas.</subtitle>
+    <logo>https://tanzhijir.github.io/images/avatar.png</logo>
+    <icon>https://tanzhijir.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 檀纸姬的博客</rights>
+</feed>
