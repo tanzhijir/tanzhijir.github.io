@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tanzhijir.github.io</id>
     <title>檀纸姬的博客</title>
-    <updated>2021-02-10T03:14:58.673Z</updated>
+    <updated>2021-02-10T03:25:15.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tanzhijir.github.io"/>
     <link rel="self" href="https://tanzhijir.github.io/atom.xml"/>
@@ -10,6 +10,79 @@
     <logo>https://tanzhijir.github.io/images/avatar.png</logo>
     <icon>https://tanzhijir.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 檀纸姬的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[15岁小伙体验我的世界的光线追踪！Beta测试版体验分享]]></title>
+        <id>https://tanzhijir.github.io/post/15-sui-xiao-huo-ti-yan-wo-de-shi-jie-de-guang-xian-zhui-zong-beta-ce-shi-ban-ti-yan-fen-xiang/</id>
+        <link href="https://tanzhijir.github.io/post/15-sui-xiao-huo-ti-yan-wo-de-shi-jie-de-guang-xian-zhui-zong-beta-ce-shi-ban-ti-yan-fen-xiang/">
+        </link>
+        <updated>2021-02-10T03:17:18.000Z</updated>
+        <content type="html"><![CDATA[<p>氦</p>
+<p>我是檀纸姬<br>
+前段时间 Nvdia 公布了 RTX 这项技术<br>
+现在 Minecraft 也支持光线追踪技术了<br>
+不知道有没有人和我一样常在网上看到NV的粉丝刷这些视频<br>
+<img src="https://wx2.sinaimg.cn/large/ae6cfbe3ly4ghhgwu6qknj20k00b9jsi.jpg" alt="avatar" loading="lazy"></p>
+<p>说光追有多漂亮有多炫<br>
+但是看这么多视频就是看不到正式版的影子<br>
+现在我们终于迎来了 Beta 测试版<br>
+让我们看一看它的实际表现吧</p>
+<p>首先你要确保你有 Windows10 版本的 Minecraft<br>
+Minecraft 分为 Win10 版和 Java 版<br>
+因为光线追踪只能运行在 Win10 版本上<br>
+所以你要先确保你有 Win10 版<br>
+接着它有建议的硬件配置要求<br>
+像是显卡最低是 RTX2060<br>
+毕竟在含有 RT Cores 的显卡中 RTX2060 算是最入门的选择<br>
+再来 CPU 的部分建议使用 Intel 的 i5系列<br>
+现在排挤 AMD 就对了</p>
+<p>对应到 AMD 的话就是 AMD 的 R5 系列<br>
+<img src="https://tanzhijir.github.io/post-images/1612927236037.jpg" alt="" loading="lazy"></p>
+<p>接着还要下载 XBOX Insider Hub<br>
+这个程序就是用来进入 Beta 测试版的地方<br>
+<img src="https://wx4.sinaimg.cn/large/ae6cfbe3ly4ghhgwu6qmkj20k00b9weu.jpg" alt="avatar" loading="lazy"></p>
+<p>进去之后就可以看到它已经提供了 RTX 测试版的选项<br>
+选中之后就获得了 Minecraft Beta 测试版<br>
+这次的 Beta 测试版除了支持 RTX<br>
+他还有更丰富的光面反射同时也支持 DLSS2.0<br>
+也就是深度学习超级采样<br>
+<img src="https://wx3.sinaimg.cn/large/ae6cfbe3ly4ghhgwu6bbsj20k00bhmxw.jpg" alt="avatar" loading="lazy"></p>
+<p>让我们在高解析度下的游玩成为可能</p>
+<p>我这次使用的硬件是 Intel 的 i5 10400F 搭配 RTX 2060 Intel Yes</p>
+<p>​</p>
+<p>这样的配置跑起来应该不会很吃力</p>
+<p>现在让我们看看它的光追吃不吃性能<br>
+这次官方提供了6张支持光线追踪的地图<br>
+我下载了其中的一张<br>
+让我们看看它的表现怎么样</p>
+<p>进去之后就会发现它的光影跟一般版本的不同<br>
+光线会更加的柔和<br>
+并且会反射到旁边的物体上面<br>
+<img src="https://wx1.sinaimg.cn/large/ae6cfbe3ly4ghhgwu95kbg21hc0u01kx.gif" alt="avatar" loading="lazy"><br>
+而且明显可以感受到的是它的帧率并不是很高</p>
+<p>现在这里的帧数大概是四五十帧之内<br>
+而且是在1080P之下用 RTX 2060 跑出来的结果<br>
+可以看得出它是非常吃显卡性能的<br>
+整体看下来<br>
+其他地图也非常有特色<br>
+有那种....阳光洒落下来的场景<br>
+![avatar]https://wx2.sinaimg.cn/large/ae6cfbe3ly4ghhgwub7tuj20k00b9mxv.jpg)<br>
+有水面反射的场景<br>
+1<a href="https://wx4.sinaimg.cn/large/ae6cfbe3ly4ghhgwub5uej20k00b9zkp.jpg">avatar</a><br>
+当然我觉得水面反射的场景最能体现光追的魅力</p>
+<p>那种好像有点清楚但又带点模糊的感觉确实很厉害<br>
+只是说在这样方方正正的世界里<br>
+突然出现如此真实的光面反射会让人觉得特别突兀</p>
+<p>整体来说<br>
+今天是做一个体验如果你是对我的世界的光追特别感兴趣的话<br>
+我强烈推荐你来玩这款游戏</p>
+<p>不过从整体上来说</p>
+<p>还有一些问题有待解决像是RTX 2060跑起来都如此吃力<br>
+整体上来说这款游戏还是OK的<br>
+我希望官方加快脚步<br>
+把剩下的问题解决掉<br>
+尽快推出正式版</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何做出一支低质量视频]]></title>
         <id>https://tanzhijir.github.io/post/ru-he-zuo-chu-yi-zhi-di-zhi-liang-shi-pin/</id>
