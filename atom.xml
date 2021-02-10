@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tanzhijir.github.io</id>
     <title>檀纸姬的博客</title>
-    <updated>2021-02-09T14:52:11.394Z</updated>
+    <updated>2021-02-10T03:14:19.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tanzhijir.github.io"/>
     <link rel="self" href="https://tanzhijir.github.io/atom.xml"/>
@@ -10,4 +10,24 @@
     <logo>https://tanzhijir.github.io/images/avatar.png</logo>
     <icon>https://tanzhijir.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 檀纸姬的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[如何做出一支低质量视频]]></title>
+        <id>https://tanzhijir.github.io/post/ru-he-zuo-chu-yi-zhi-di-zhi-liang-shi-pin/</id>
+        <link href="https://tanzhijir.github.io/post/ru-he-zuo-chu-yi-zhi-di-zhi-liang-shi-pin/">
+        </link>
+        <updated>2021-02-10T03:11:55.000Z</updated>
+        <content type="html"><![CDATA[<p>我有个朋友是专门做低创视频的<br>
+下面我会告诉你们怎么做∶</p>
+<p>视频最终输出规格为 720p 30 fps 6 mbps<br>
+（当然越低越好）</p>
+<p>录制音频的时候一定要在施工的工地附近进行。</p>
+<p>字体要用老年人最爱的「楷体、仿宋体」。</p>
+<p>特效一定要用 PPT 特效∶线性动画、划像、翻页转场。</p>
+<p>音乐一定是要配「抖音热曲、Alan Walker 的音乐」</p>
+<p>Faded 就是最好的音乐👍</p>
+<p>组织语言的时候一定要像小学生一样的「看图写话」</p>
+<p>色彩方面建议是∶饱和度、对比度、锐化拉满</p>
+<p>这样做就能得到一个比较让人舒适的色彩。</p>
+]]></content>
+    </entry>
 </feed>
