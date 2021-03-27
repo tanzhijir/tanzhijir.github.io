@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tanzhijir.github.io</id>
+    <id>https://tanzhijir.top</id>
     <title>檀纸姬的博客</title>
-    <updated>2021-03-27T09:56:00.814Z</updated>
+    <updated>2021-03-27T09:58:35.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tanzhijir.github.io"/>
-    <link rel="self" href="https://tanzhijir.github.io/atom.xml"/>
+    <link rel="alternate" href="https://tanzhijir.top"/>
+    <link rel="self" href="https://tanzhijir.top/atom.xml"/>
     <subtitle>Septillion of ideas.</subtitle>
-    <logo>https://tanzhijir.github.io/images/avatar.png</logo>
-    <icon>https://tanzhijir.github.io/favicon.ico</icon>
+    <logo>https://tanzhijir.top/images/avatar.png</logo>
+    <icon>https://tanzhijir.top/favicon.ico</icon>
     <rights>All rights reserved 2021, 檀纸姬的博客</rights>
     <entry>
         <title type="html"><![CDATA[体验我的世界的光线追踪 | Beta 测试体验分享]]></title>
-        <id>https://tanzhijir.github.io/post/15-sui-xiao-huo-ti-yan-wo-de-shi-jie-de-guang-xian-zhui-zong-beta-ce-shi-ban-ti-yan-fen-xiang/</id>
-        <link href="https://tanzhijir.github.io/post/15-sui-xiao-huo-ti-yan-wo-de-shi-jie-de-guang-xian-zhui-zong-beta-ce-shi-ban-ti-yan-fen-xiang/">
+        <id>https://tanzhijir.top/post/15-sui-xiao-huo-ti-yan-wo-de-shi-jie-de-guang-xian-zhui-zong-beta-ce-shi-ban-ti-yan-fen-xiang/</id>
+        <link href="https://tanzhijir.top/post/15-sui-xiao-huo-ti-yan-wo-de-shi-jie-de-guang-xian-zhui-zong-beta-ce-shi-ban-ti-yan-fen-xiang/">
         </link>
         <updated>2021-02-10T03:17:18.000Z</updated>
         <content type="html"><![CDATA[<p>氦<br>
@@ -78,8 +78,8 @@ Minecraft 分为 Win10 版和 Java 版<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[如何做出一支低质量视频]]></title>
-        <id>https://tanzhijir.github.io/post/ru-he-zuo-chu-yi-zhi-di-zhi-liang-shi-pin/</id>
-        <link href="https://tanzhijir.github.io/post/ru-he-zuo-chu-yi-zhi-di-zhi-liang-shi-pin/">
+        <id>https://tanzhijir.top/post/ru-he-zuo-chu-yi-zhi-di-zhi-liang-shi-pin/</id>
+        <link href="https://tanzhijir.top/post/ru-he-zuo-chu-yi-zhi-di-zhi-liang-shi-pin/">
         </link>
         <updated>2021-02-10T03:11:55.000Z</updated>
         <content type="html"><![CDATA[<p>我有个朋友是专门做低创视频的<br>
