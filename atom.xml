@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tanzhijir.top</id>
     <title>檀纸姬的博客</title>
-    <updated>2021-03-27T14:45:34.979Z</updated>
+    <updated>2021-03-27T14:49:58.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tanzhijir.top"/>
     <link rel="self" href="https://tanzhijir.top/atom.xml"/>
@@ -33,19 +33,20 @@ Minecraft 分为 Win10 版和 Java 版<br>
 像是显卡最低是 RTX2060<br>
 毕竟在含有 RT Cores 的显卡中 RTX2060 算是最入门的选择<br>
 再来 CPU 的部分建议使用 Intel 的 i5 系列<br>
-现在排挤 AMD 就对了</p>
-<p>对应到 AMD 的话就是 AMD 的 R5 系列</p>
+现在排挤 AMD 就对了<br>
+对应到 AMD 的话就是 AMD 的 R5 系列<br>
+<img src="file://https://ftp.bmp.ovh/imgs/2021/03/4cbc7608f0897b15.jpg" alt="" loading="lazy"></p>
 <p>接着还要下载 XBOX Insider Hub<br>
-这个程序就是用来进入 Beta 测试版的地方</p>
+这个程序就是用来进入 Beta 测试版的地方<br>
+<img src="file://https://ftp.bmp.ovh/imgs/2021/03/6d36446214775321.jpg" alt="" loading="lazy"></p>
 <p>进去之后就可以看到它已经提供了 RTX 测试版的选项<br>
 选中之后就获得了 Minecraft Beta 测试版<br>
 这次的 Beta 测试版除了支持 RTX<br>
 他还有更丰富的光面反射同时也支持 DLSS2.0<br>
-也就是深度学习超级采样</p>
-<p>让我们在高解析度下的游玩成为可能</p>
-<p>我这次使用的硬件是 Intel 的 i5 10400F 搭配 RTX 2060 Intel Yes</p>
-<p>​</p>
-<p>这样的配置跑起来应该不会很吃力</p>
+也就是深度学习超级采样<br>
+让我们在高解析度下的游玩成为可能</p>
+<p>我这次使用的硬件是 Intel 的 i5 10400F 搭配 RTX 2060<br>
+这样的配置跑起来应该不会很吃力</p>
 <p>现在让我们看看它的光追吃不吃性能<br>
 这次官方提供了 6 张支持光线追踪的地图<br>
 我下载了其中的一张<br>
@@ -53,8 +54,9 @@ Minecraft 分为 Win10 版和 Java 版<br>
 <p>进去之后就会发现它的光影跟一般版本的不同<br>
 光线会更加的柔和<br>
 并且会反射到旁边的物体上面<br>
-而且明显可以感受到的是它的帧率并不是很高</p>
-<p>现在这里的帧数大概是四五十帧之内<br>
+而且明显可以感受到的是它的帧率并不是很高<br>
+<img src="file://https://ftp.bmp.ovh/imgs/2021/03/ce29a4f8f7edcfd8.jpg" alt="" loading="lazy"><br>
+现在这里的帧数大概是四五十帧之内<br>
 而且是在 1080P 之下用 RTX 2060 跑出来的结果<br>
 可以看得出它是非常吃显卡性能的<br>
 整体看下来<br>
@@ -68,12 +70,12 @@ Minecraft 分为 Win10 版和 Java 版<br>
 <p>整体来说<br>
 今天是做一个体验如果你是对我的世界的光追特别感兴趣的话<br>
 我强烈推荐你来玩这款游戏</p>
-<p>不过从整体上来说</p>
-<p>还有一些问题有待解决像是 RTX 2060 跑起来都如此吃力<br>
+<p>不过从整体上来说<br>
+还有一些问题有待解决像是 RTX 2060 跑起来都如此吃力<br>
 整体上来说这款游戏还是 OK 的<br>
 我希望官方加快脚步<br>
 把剩下的问题解决掉<br>
-尽快推出正式版。</p>
+尽快推出正式版</p>
 ]]></content>
     </entry>
     <entry>
