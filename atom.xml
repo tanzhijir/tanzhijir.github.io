@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tanzhijir.top</id>
     <title>檀纸姬的博客</title>
-    <updated>2021-03-28T05:46:33.120Z</updated>
+    <updated>2021-03-28T05:50:08.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tanzhijir.top"/>
     <link rel="self" href="https://tanzhijir.top/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://tanzhijir.top/images/avatar.png</logo>
     <icon>https://tanzhijir.top/favicon.ico</icon>
     <rights>All rights reserved 2021, 檀纸姬的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[我们宿舍]]></title>
+        <id>https://tanzhijir.top/post/wo-men-su-she/</id>
+        <link href="https://tanzhijir.top/post/wo-men-su-she/">
+        </link>
+        <updated>2021-03-28T05:49:00.000Z</updated>
+        <content type="html"><![CDATA[<p>一开始我认识我们宿舍人的时候<br>
+我觉得其中两名同志最像烂仔<br>
+不仅是说的话像，做的事更像<br>
+（比如对着二栋喊楼、说脏话🤬 ）<br>
+所以我一开始不想和他们说话<br>
+但最后在与他们交谈过程中才发现他们还是很友好的，是吧<br>
+其中一位朋友是很爱国的<br>
+在校得知 BCI 成员歧视新疆棉花后<br>
+他当晚在阳台怒喊∶<br>
+“谁穿耐克谁是狗”<br>
+“ XX，别让我看到你穿耐克”<br>
+“看到 XXX 穿耐克就打他”<br>
+这位同志在关键时刻化身为战狼👍</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[体验我的世界的光线追踪 | Beta 测试体验分享]]></title>
         <id>https://tanzhijir.top/post/15-sui-xiao-huo-ti-yan-wo-de-shi-jie-de-guang-xian-zhui-zong-beta-ce-shi-ban-ti-yan-fen-xiang/</id>
