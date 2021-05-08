@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tanzhijir.top</id>
     <title>檀纸姬的博客</title>
-    <updated>2021-04-10T11:39:22.034Z</updated>
+    <updated>2021-05-08T13:25:05.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tanzhijir.top"/>
     <link rel="self" href="https://tanzhijir.top/atom.xml"/>
@@ -11,16 +11,44 @@
     <icon>https://tanzhijir.top/favicon.ico</icon>
     <rights>All rights reserved 2021, 檀纸姬的博客</rights>
     <entry>
-        <title type="html"><![CDATA[我删除了我频道上的大部分视频]]></title>
-        <id>https://tanzhijir.top/post/wo-shan-chu-liao-wo-pin-dao-shang-de-da-bu-fen-shi-pin/</id>
-        <link href="https://tanzhijir.top/post/wo-shan-chu-liao-wo-pin-dao-shang-de-da-bu-fen-shi-pin/">
+        <title type="html"><![CDATA[此刻你应该拥抱「玻璃拟物化」！]]></title>
+        <id>https://tanzhijir.top/post/ci-ke-ni-ying-gai-yong-bao-bo-li-ni-wu-hua/</id>
+        <link href="https://tanzhijir.top/post/ci-ke-ni-ying-gai-yong-bao-bo-li-ni-wu-hua/">
         </link>
-        <updated>2021-04-10T11:31:00.000Z</updated>
-        <content type="html"><![CDATA[<p>在几年前我开始接触到视频创作这个领域，之后我创作了一系列视频。<br>
-这些视频的质量都参差不齐，而最糟糕的是，我还将这些视频上传到了 Bilibili<br>
-大多数视频播放量都不高。<br>
-如今我决定要用心经营我的频道，为了不影响到频道内容流，我删除了我所有的微博博文和 Bilibili 动态。<br>
-希望我所做的决定能对我未来的频道产生积极的影响吧。</p>
+        <updated>2021-05-08T13:06:36.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="glassmorphism-是什么"><strong>Glassmorphism 是什么？</strong></h1>
+<figure data-type="image" tabindex="1"><img src="https://tanzhijir.top/post-images/1620480098997.jpg" alt="" loading="lazy"></figure>
+<p>显而易见，Glassmorphism 这个词是 Glass（玻璃）和 Skeumorphism（拟物化）的结合，我姑且将其称之为「玻璃拟物化设计」。</p>
+<p>Michael Malewicz 将这种风格特征归结为4点：</p>
+<ul>
+<li>透明：使用带有模糊磨砂质感背景的透明效果</li>
+<li>悬浮：带有明显悬浮感的多个层级</li>
+<li>鲜明：使用鲜艳色彩作为强调色并且从半透明层中透出</li>
+<li>微妙：使用轻薄微妙的边框来强化物理质感</li>
+<li>简单的来说，「玻璃拟物化」在某些方面和「新拟物化」是一脉相承的，但是它有着相对更加具体的视觉隐喻，也就是我们日常接触的「玻璃」。</li>
+</ul>
+<p>如果你和经常翻看 Dribbble 或者 Behance ，你可能会注意到有很多设计师在有意识地采用「玻璃拟物化」美学的设计。</p>
+<h1 id="glassmorphism-的优点有哪些"><strong>Glassmorphism 的优点有哪些？</strong></h1>
+<p><strong>1.愉悦感</strong></p>
+<p>首先，当然是视觉愉悦感。</p>
+<figure data-type="image" tabindex="2"><img src="https://tanzhijir.top/post-images/1620480128524.png" alt="" loading="lazy"></figure>
+<p>使用「玻璃拟物化」设计的界面，毛玻璃的通透性，在多个控件情况下，会呈现出一种独特的「虚实结合」的美感。</p>
+<p><strong>2.层次感</strong></p>
+<figure data-type="image" tabindex="3"><img src="https://tanzhijir.top/post-images/1620480152893.png" alt="" loading="lazy"></figure>
+<p>用户可以很清晰地感知到多个不同的层次，看不清楚但是可以透过「玻璃」的「背景层」，创造朦胧效果的「玻璃层」，前景的UI控件，这已经比原有的 UI 界面多了一层，当然，实际上如果你用的巧妙，可以让层次更多但是协调地存在。</p>
+<p><strong>3.呈现语境</strong></p>
+<figure data-type="image" tabindex="4"><img src="https://tanzhijir.top/post-images/1620480161060.png" alt="" loading="lazy"></figure>
+<p>有些东西应该是不言自明的。比如「我在哪」「我是从哪里来的」这种事情，可以透过「玻璃」看到的背景层就能够很好地暗示出此刻的位置。</p>
+<p><strong>4、微妙高级</strong></p>
+<figure data-type="image" tabindex="5"><img src="https://tanzhijir.top/post-images/1620480167896.webp" alt="" loading="lazy"></figure>
+<p>经过「玻璃层」处理之后的背景显得非常柔和，无论是动态还是静态的都不会影响前景元素的呈现。同时，位于前景的文本、色彩、UI 控件依然可以保证良好的可读性。</p>
+<p>在设计中间的「玻璃层」的时候，可能需要你控制好这个「微妙」的程度。不过不论怎样，这种呈现方式都非常的雅致，甚至有那么一丝「诗意」存在。</p>
+<p>最新的 macOS Big Sur 也在整个 UI 界面当中大规模使用了接近「玻璃拟物化」的半透明毛玻璃视觉效果，在系统自带的 APP 当中尤其显著：</p>
+<figure data-type="image" tabindex="6"><img src="https://tanzhijir.top/post-images/1620480181121.webp" alt="" loading="lazy"></figure>
+<p>而值得一提的是，macOS Big Sur 和当下的 iOS 14 在视觉美学上也保持着高度的一致，尤其是在系统的设计美学逻辑上是统一的：</p>
+<figure data-type="image" tabindex="7"><img src="https://tanzhijir.top/post-images/1620480261600.png" alt="" loading="lazy"></figure>
+<p>这种主流操作系统的背书，「玻璃拟物化」的进一步推行和普及，无疑有着重要的影响。相比于看起来高级但是炫技多于实用性的「新拟物化」，「玻璃拟物化」这种风格在各大操作系统的践行和验证之下，实用性更强，视觉美学上也得到目前最新的操作系统的验证。</p>
+<p>虽然「玻璃拟物化」并非是全新的事物，但是确实有越来越多的设计师正在尝试这样的设计风格，并且在多灾多难的 2020 年能看到这样的新东西，总归会让我们对未来有那么一丝期待 。</p>
 ]]></content>
     </entry>
     <entry>
