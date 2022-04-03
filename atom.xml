@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tanzhijir.github.io</id>
+    <title>这有意思</title>
+    <updated>2022-04-03T06:02:43.847Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tanzhijir.github.io"/>
+    <link rel="self" href="https://tanzhijir.github.io/atom.xml"/>
+    <subtitle>TanZhiJiR 的小网站</subtitle>
+    <logo>https://tanzhijir.github.io/images/avatar.png</logo>
+    <icon>https://tanzhijir.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 这有意思</rights>
+</feed>
